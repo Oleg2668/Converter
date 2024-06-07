@@ -7,8 +7,8 @@ public class Main {
 
         double kgs = 5;
         double pnds = 12;
-        double pounds = convKgsToPounds(kgs);
-        double kilos = convPoundsToKg(pnds);
+        double pounds = convKgsToPounds(kgs); //converter kg to pounds
+        double kilos = convPoundsToKg(pnds); // converter pounds to kg
         System.out.println("Result is " + pounds + " pounds and " + kilos + " kgs.");
 
     }
