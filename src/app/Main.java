@@ -8,8 +8,8 @@ public class Main {
         double kgs=5;
         double pnds=12;
         double pounds = convKgsToPounds(kgs);
-        double kilos=convPoundsToKg(pnds;
-        System.out.println("Result is "+ pounds+ " pounds and "+ kilos + +" kgs.");
+        double kilos=convPoundsToKg(pnds);
+        System.out.println("Result is "+ pounds+ " pounds and "+ kilos + " kgs.");
 
     }
 
