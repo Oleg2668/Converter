@@ -7,7 +7,7 @@ public class Main {
 
         double kgs=5;
         double pounds = convKgsToPounds(kgs);
-        System.out.println("Result is "+ ponds+ " pounds.");
+        System.out.println("Result is "+ pounds+ " pounds.");
 
     }
 
